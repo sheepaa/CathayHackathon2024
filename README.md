@@ -28,3 +28,7 @@ npm run dev
 npm run build
 ```
 
+## Project backend Setup
+### Recommended IDE
+Intellj idea
+### run demoApplication
